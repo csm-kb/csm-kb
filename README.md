@@ -45,11 +45,21 @@ There is always something to learn. I can communicate, I can coordinate, and I c
 <summary><b>🎉 Pro Facts!</b></summary>
   
 - I am moderately fluent in Japanese (日本語中級・N4, partial N3)... can hold a decent conversation most of the time!
-- I have extensive experience with systems engineering, full-domain backend API work in TypeScript and Golang (Fiber), and frontend work on web apps via frameworks (React/Next.js, Remix, Vue, and Vite) and raw HTML/CSS/JS.
-- I believe that the middle-ground of **The Boring Choice™** and **The Bleeding-Edge Choice™** is where some of the best decisions are made.
-  - `why TLDR: this way as an engineer, I can feel comfortable that I'm staying relevant, while also pushing the boundaries of how to do as much as I can with as little as possible. Newer tools that have had a bit of time to gain traction often solve major problems with older tools that gum up DevEx and make my team feel icky or overwhelmed with maintenance, and we even get the chance to shape those tools with our direct use. This logic has proven to be valuable in guiding larger-scale architectural decisions (and fellow engineers) to land in very stable spots that minimize how much we need to lift.`
+- I have extensive experience with systems engineering, full-domain backend API work in TypeScript and Golang (Fiber), and frontend work on web apps via frameworks (React/Next.js, Remix, Vue, and Vite) & raw HTML/CSS/JS, as well as low-level UI engineering in graphics engines and frameworks like Qt and SDL.
+- I believe that the middle-ground of **The Boring Choice™** and **The Bleeding-Edge Choice™** is where some of the best innovation comes from.
+```
+however, it is also where some of the worst ideas come from, too. there is a fine edge here that requires a trained hand to balance!
+
+why TLDR: my entire objective is to do as much as possible, with as little as possible. if this means using an ancient tool or matured library that gets the job done every time, then perfect.
+
+in some circumstances, however, newer tools that have had a bit of time to gain traction (and thus aren't one of the "worst ideas") were designed to solve major problems with older tools that gum up DevEx and make my team feel icky or overwhelmed with maintenance -- and we even get the chance to shape those tools with our direct use... especially when the original tool is too "legacy" or inflexible to be contributed to (and god forbid forked for our own purposes).
+
+so? we're not afraid to innovate, and I encourage us to make our lives simpler, even if it is a little harder. this logic has proven to be valuable in guiding larger-scale architectural decisions (and fellow engineers) to land in very stable spots that minimize how much we end up needing to lift or maintain as time goes on... and we've been very happy with the results!
+
+do not forget that every sect of engineering and every problem or application's requirements will dictate the best tools for the job, so your mileage *will* vary based on what you're doing.
+```
 - I know my way around compiler + language design and computer architecture (including research into photonics), courtesy of my post-graduate studies.
-- For the same reason (+ personal projects), I have experience with player-first game design and game systems/UI engineering in Godot, Unity, and Unreal Engine.
+- For the same reason (+ personal projects), I have experience with player-first game design and game systems + UI engineering in Godot, Unity, and Unreal Engine.
 - I have lots of experience tailoring talks to audiences, managing social media and copywriting, and can do VA + video editing work from my background in content creation and streaming.
 - I could reinvent the computer from memory, if required... thank you, Nand2Tetris!
 - I nearly worked for 10 Chambers on _GTFO_, but was stolen by Microsoft to work on Azure App Services + Functions. (and then CERN to work on CI/CD modernization...)
