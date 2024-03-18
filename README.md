@@ -25,9 +25,7 @@
       </td>
       <td>
         <div>
-          <a href="https://soundcloud.com/kanomeister">
-            <img src="https://raw.githubusercontent.com/csm-kb/csm-kb/main/public/km-256.png" title="Me (music form)" alt="A stylized image of me wearing a cyberpunk helmet (music form)" />
-          </a>
+          <img src="https://raw.githubusercontent.com/csm-kb/csm-kb/main/public/km-256.png" title="Me (music form)" alt="A stylized image of me wearing a cyberpunk helmet (music form)" />
         </div>
       </td>
     </tr>
