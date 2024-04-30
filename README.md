@@ -354,6 +354,7 @@ If I'm _at least_ ~~combat-effective~~ proficient in a certain language, framewo
 - _Lumine & Tenebria_ - an original dark fantasy world and lore, inspired by countless D&D sessions.
 
 **Games**
+- _Connect the World_ - OpenTTD in 3D = Numbers GO UP! Featuring worldwide time-based tech progression, in first person, with elements of automation. Nothing more.
 - _Work Sim 1980_ - an economy and business simulation game, based on the Corporation feature in _Bitburner_ and inspired by the endless mode in _Job Simulator VR_.
 - _Holospark!_ - a fast-paced 4v4 competitive first-person shooter with original takes on Hololive characters spun as champions, complete with dynamic movesets and mechanics, in a variety of game modes.
 - _Bae Game_ - a competitive multiplayer spin on _Suika Game_ with customizable themes, built with Godot and Nakama.
