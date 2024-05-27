@@ -348,6 +348,7 @@ If I'm _at least_ ~~combat-effective~~ proficient in a certain language, framewo
 - _Midori_ - my own implementation of a chat platform like _Discord_, written with Golang, Next.js, and Electron.
 - _Mokuteki_ - an LLM-backed esports performance tracking and coaching tool, written with Next.js.
 - [A fan site](https://idolshowdown.com) for _Idol Showdown_ - a fan-made idol fighting game made in Unity with GGPO.
+- [A fan site](https://wrestletuber.com) for Dokibird's WRESTLETUBER event - where virtual content creators face off in a championship bracket with customized models made in _WWE 2K23_.
 
 **Original Worlds & Stories**
 - _Norre_ - an original cyberpunk world and lore, with dystopian inspirations.
