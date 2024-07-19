@@ -311,16 +311,16 @@ If I'm _at least_ ~~combat-effective~~ proficient in a certain language, framewo
 <ul>
 <li>Video games are one of my favorite passions!</li>
 <ul>
-<li>I love story-driven games, especially RPGs like _Final Fantasy_ and _Fire Emblem_, as well as PS2-style analog horror games and roguelikes.</li>
+<li>I love story-driven games, especially RPGs like <i>Final Fantasy</i> and <i>Fire Emblem</i>, as well as PS2-style analog horror games and roguelikes.</li>
 <li>Strategy (4X, turn-based, real-time), sandbox, and simulation games go very hard. The Three S'es of a well-rounded gamer diet.</li>
-<li>I grew up playing competitive FPS games, starting from _Halo_ and _Call of Duty_ in the olden days and going all the way to becoming a semi-pro _Overwatch_ A-team captain.</li>
+<li>I grew up playing competitive FPS games, starting from <i>Halo</i> and <i>Call of Duty</i> in the olden days and going all the way to becoming a semi-pro <i>Overwatch</i> A-team captain.</li>
 </ul>
 </ul>
 <ul>
 <li>Music is one of my other favorite passions!</li>
 <ul>
 <li>I can mix for a variety of compositions and music genres. I use FL Studio with a wide set of studio-grade plugins and synthesizers.</li>
-<li>As a producer, I am focused on melodic bass with an emphasis on _essence_: a vibrant and fulfilling soundstage that smatters the colorful highs wide, and sets the lows with a fuzzy and warm rumbling. This helps me strike a balance between punchy, powerful mixdowns; and elegant, complex, and emotional chord progressions.</li>
+<li>As a producer, I am focused on melodic bass with an emphasis on <i>essence<i>: a vibrant and fulfilling soundstage that smatters the colorful highs wide, and sets the lows with a fuzzy and warm rumbling. This helps me strike a balance between punchy, powerful mixdowns; and elegant, complex, and emotional chord progressions.</li>
 </ul>
 </ul>
 </details>
