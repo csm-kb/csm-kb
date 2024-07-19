@@ -320,7 +320,7 @@ If I'm _at least_ ~~combat-effective~~ proficient in a certain language, framewo
 <li>Music is one of my other favorite passions!</li>
 <ul>
 <li>I can mix for a variety of compositions and music genres. I use FL Studio with a wide set of studio-grade plugins and synthesizers.</li>
-<li>As a producer, I am focused on melodic bass with an emphasis on <i>essence<i>: a vibrant and fulfilling soundstage that smatters the colorful highs wide, and sets the lows with a fuzzy and warm rumbling. This helps me strike a balance between punchy, powerful mixdowns; and elegant, complex, and emotional chord progressions.</li>
+<li>As a producer, I am focused on melodic bass with an emphasis on <i>essence</i>: a vibrant and fulfilling soundstage that smatters the colorful highs wide, and sets the lows with a fuzzy and warm rumbling. This helps me strike a balance between punchy, powerful mixdowns; and elegant, complex, and emotional chord progressions.</li>
 </ul>
 </ul>
 </details>
