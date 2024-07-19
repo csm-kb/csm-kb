@@ -34,7 +34,7 @@
 
 ### **Yo! I'm Kane. 「ケイン」と申します！**
 
-I specialize in enterprise-scale distributed system design and software architecture, CI/CD and cloud orchestration, and leading teams with an emphasis on dev health (DevEx).
+I specialize in enterprise-scale distributed system design and software architecture, CI/CD and cloud orchestration, and leading teams with an emphasis on high-quality sustainable output.
 > One of my most important traits is that I am **adaptable**, and can pick up anything very quickly.
 
 There is always something to learn. I can communicate, I can coordinate, and I can congregate -- nothing beats working with awesome folks and mentors, and scrying new learnings from crazy projects!
@@ -127,6 +127,11 @@ If I'm _at least_ ~~combat-effective~~ proficient in a certain language, framewo
       <!-- database -->
       <a href="https://github.com/search?q=user%3Acsm-kb+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
       <a href="https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/"><img alt="Kusto" src="https://img.shields.io/badge/Kusto-0078D4.svg?logo=azuredataexplorer&logoColor=white"></a>
+    </p>
+    <p>
+      <!-- IaC -->
+      <a href="https://github.com/search?q=user%3Acsm-kb+language%3Atf"><img alt="Terraform" src="https://custom-icon-badges.demolab.com/badge/Terraform-7B42BC.svg?logo=terraform&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Acsm-kb+language%3Athcl"><img alt="Terragrunt" src="https://img.shields.io/badge/Terragrunt-A067DA.svg?logo=terraform&logoColor=white"></a>
     </p>
     <p>
       <!-- others -->
@@ -276,7 +281,8 @@ If I'm _at least_ ~~combat-effective~~ proficient in a certain language, framewo
     <p>
       <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
       <a href="#"><img alt="GitLab CI" src="https://img.shields.io/badge/GitLab%20CI-FC6D26.svg?logo=gitlab&logoColor=white"></a>
-      <a href="#"><img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?logo=azure%20devops&logoColor=white"></a>
+      <a href="#"><img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?logo=azure&logoColor=white"></a>
+      <a href="#"><img alt="Argo" src="https://img.shields.io/badge/Argo-EF7B4D.svg?logo=argo&logoColor=white"></a>
     </p>
     <h4>Monitoring & Observability</h4>
     <p>
@@ -291,30 +297,50 @@ If I'm _at least_ ~~combat-effective~~ proficient in a certain language, framewo
       <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-222222.svg?logo=unity&logoColor=white"></a>
       <a href="#"><img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-0E1128.svg?logo=unrealengine&logoColor=white"></a>
     </p>
+    <h4>Project Management</h4>
+    <p>
+      <a href="#"><img alt="Linear" src="https://img.shields.io/badge/Linear-5E6AD2.svg?logo=linear&logoColor=white"></a>
+      <a href="#"><img alt="Atlassian Suite" src="https://img.shields.io/badge/Atlassian%20Suite-0052CC.svg?logo=atlassian&logoColor=white"></a>
+    </p>
     <hr/>
   </div>
 </details>
 
-#### ℹ️ What else?
-- Video games are one of my favorite passions!
-  - I love story-driven games, especially RPGs like _Final Fantasy_ and _Fire Emblem_, as well as PS2-style analog horror games and roguelikes.
-  - Strategy (4X, turn-based, real-time), sandbox, and simulation games go very hard. The Three S'es of a well-rounded gamer diet.
-  - I grew up playing competitive FPS games, starting from _Halo_ and _Call of Duty_ in the olden days and going all the way to becoming a semi-pro _Overwatch_ A-team captain.
-- Music is one of my other favorite passions!
-  - I can mix for a variety of compositions and music genres. I use FL Studio with a wide set of studio-grade plugins and synthesizers.
-  - As a producer, I am focused on color bass / melodic riddim with an emphasis on _essence_: a vibrant and fulfilling soundstage that smatters the colorful highs wide, and sets the lows with a fuzzy and warm rumbling.
+<details>
+<summary><h4>ℹ️ What else?</h4></summary>
+<ul>
+<li>Video games are one of my favorite passions!</li>
+<ul>
+<li>I love story-driven games, especially RPGs like _Final Fantasy_ and _Fire Emblem_, as well as PS2-style analog horror games and roguelikes.</li>
+<li>Strategy (4X, turn-based, real-time), sandbox, and simulation games go very hard. The Three S'es of a well-rounded gamer diet.</li>
+<li>I grew up playing competitive FPS games, starting from _Halo_ and _Call of Duty_ in the olden days and going all the way to becoming a semi-pro _Overwatch_ A-team captain.</li>
+</ul>
+</ul>
+<ul>
+<li>Music is one of my other favorite passions!</li>
+<ul>
+<li>I can mix for a variety of compositions and music genres. I use FL Studio with a wide set of studio-grade plugins and synthesizers.</li>
+<li>As a producer, I am focused on melodic bass with an emphasis on _essence_: a vibrant and fulfilling soundstage that smatters the colorful highs wide, and sets the lows with a fuzzy and warm rumbling. This helps me strike a balance between punchy, powerful mixdowns; and elegant, complex, and emotional chord progressions.</li>
+</ul>
+</ul>
+</details>
 
 <details open>
 <summary><h4>🏙️ Main Portfolio</h4></summary>
 
 **Positions**
-- **CTO @ Venvee** `[*current]`
+- **Vice President, Engineering @ Venvee** `[*current]`
+  - I moved to an adjacent role to allow an industry veteran (now friend) to come in, mentor me, and provide additional business & VC connections -- which would've otherwise take me a long time to build!
+  - worked under extraordinary pressure during the company's most critical make-or-break phase to improve work visibility, analyze leadership culture, form cross-company project management strategy for hardware solution deployments, carefully manage tradeoffs in tech debt and document crunch, and monitor + trim cloud cost spend _(it was fun and I learned a ton; but like any crunch, I don't recommend it)_
+  - built an automated end-to-end testing framework using Argo Workflows that saved edge + platform engineers many hundreds of hours (+$ks/mo in compute) in parameter/model tuning and staging validation
+  - see more below!
+- **CTO @ Venvee** - https://venvee.com/
   - (context: I've used many of the cloud orchestration tools above in this position, having been the sole engineer before the team grew!)
   - pioneered + pivoted a novel architecture for hybrid serverless, then Helm/FluxCD on EKS, Next.js and Go Fiber powered web apps leveraging AWS and NVIDIA Edge platforms across the entire edge>cloud>web spectrum to handle real-time data ingest and high-volume serving that delivered considerable customer value
   - implemented incident management + product deployment techniques that saved hundreds of dev triage hours
   - contributed to bleeding-edge AI/computer vision techniques for persistent real-time camera detection and tracking
   - implemented best practices for data security, privacy, and compliance (SOC 2, ISO 27001) using Drata and AWS security tools
-  - implemented CI/CD and GitOps w/ GitLab for serverless and container-based apps
+  - implemented CI/CD and GitOps w/ GitLab for serverless and container-based apps; including Terraform/Terragrunt for infrastructure-as-code (IaC)
   - created novel technology for edge deployment and servicing (MLOps, IoT adm.) of heavy data models using AWS
   - developed strategic relationships with key business partners, advisors, and stakeholders to forge a leading industry position for Venvee
   - architected + implemented a high-volume (>100M records/day) data ingest API in Rust with Kubernetes, Redis, and Protobuf
@@ -355,14 +381,29 @@ If I'm _at least_ ~~combat-effective~~ proficient in a certain language, framewo
 - _Lumine & Tenebria_ - an original dark fantasy world and lore, inspired by countless D&D sessions.
 
 **Games**
-- _Connect the World_ - OpenTTD in 3D = Numbers GO UP! Featuring worldwide time-based tech progression, in first person, with elements of automation. Nothing more.
-- _Work Sim 1980_ - an economy and business simulation game, based on the Corporation feature in _Bitburner_ and inspired by the endless mode in _Job Simulator VR_.
-- _Holospark!_ - a fast-paced 4v4 competitive first-person shooter with original takes on Hololive characters spun as champions, complete with dynamic movesets and mechanics, in a variety of game modes.
-- _Bae Game_ - a competitive multiplayer spin on _Suika Game_ with customizable themes, built with Godot and Nakama.
-- _HoloOdyssey: The Myth Paradox_ - a tactical role-playing game inspired by _Fire Emblem_ and _Final Fantasy_ with an emphasis on story and branching paths twisted into an alternate timeline progression.​​ Built with Godot.
-- Implementation work for [_Great Gretuski Studios_](https://www.gretuskigames.com/) on their amazing visual novels!
-- _Fight or Flight_ - an analog roguelike deckbuilder inspired by _Darkest Dungeon_, _Slay the Spire_, and _Inscryption_. Written in Unity with modding support, for a game design course at uni.
-- _>fnet()_ - a desktop/terminal simulator hacking game inspired by _Hacknet_, written in Unity (and ported to Unreal Engine 4).
+
+_Active_
+- `[Godot]` _GiGi_ - a tiny bleak hyperpop retro action RPG inspired by Hades, Final Fantasy 15, and storytelling side-scroller indie games like INSIDE and Nameless.
+- `[Godot]` _HoloOdyssey: The Myth Paradox_ - a tactical role-playing game inspired by Fire Emblem, Final Fantasy, and OCTOPATH TRAVELER, with an emphasis on story and branching paths twisted into a “Hololive/alter” timeline progression. The game differentiates itself from other TRPGs with its signature Chrono-Sync Battle System, Battle Interrupts, unique character world traversal abilities, and a deep interwoven story.
+- `[Godot]` _Holospark!_ - a fast-paced 4v4 competitive first-person shooter with original takes on Hololive characters spun as champions, complete with dynamic movesets and mechanics, in a variety of game modes.
+
+_Complete_
+
+2024
+- `[Godot]` _Connect the World_ - OpenTTD in 3D = Numbers GO UP! Featuring worldwide time-based tech progression, in first person, with elements of automation. Nothing more. Built as a prototype for large-world procedural chunked mesh generation and rendering.
+
+2023
+- `[Godot]` _Bae Game_ - a competitive multiplayer spin on _Suika Game_ with customizable themes, built with Godot and Nakama as a prototype for consistent game architecture in a multiplayer environment.
+- `[Godot]` _Work Sim 1980_ - an economy and business simulation game, based on the Corporation feature in _Bitburner_ and inspired by the endless mode in _Job Simulator VR_ as a prototype for numbers progression.
+
+2022
+- `[Ren'Py]` Implementation work for [_Great Gretuski Studios_](https://www.gretuskigames.com/) on their amazing visual novels!
+
+2021
+- `[Unity]` _Fight or Flight_ - an analog roguelike deckbuilder inspired by _Darkest Dungeon_, _Slay the Spire_, and _Inscryption_. Written in Unity with modding support, for a game design course at uni.
+
+2016
+- `[Unity/UE]` _>fnet()_ - a desktop/terminal simulator hacking game inspired by _Hacknet_, written in Unity (and ported to Unreal Engine 4).
 
 **Other**
 - [_xC/Spectre_](https://github.com/csm-kb/project-xC) - a relatively simple and expandable 64-bit CPU architecture and assembly instruction language. Assembler and virtual machine implement in Python.
