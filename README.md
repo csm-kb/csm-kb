@@ -11,19 +11,19 @@
         <br/>
         <div align="center">
           <a text-decoration="none" href="https://linkedin.com/in/kane-bruce">
-            <img width="32" src="public/linkedin.svg" title="Linkedin" alt="Linkedin"/>
+            <img width="32" src="https://raw.githubusercontent.com/csm-kb/csm-kb/main/public/linkedin.svg" title="Linkedin" alt="Linkedin"/>
           </a>
           &#8287;&#8287;&#8287;
           <a text-decoration="none" href="https://github.com/csm-kb">
-            <img width="32" src="public/github.svg" title="GitHub" alt="GitHub"/>
+            <img width="32" src="https://raw.githubusercontent.com/csm-kb/csm-kb/main/public/github.svg" title="GitHub" alt="GitHub"/>
           </a>
           &#8287;&#8287;&#8287;
           <a text-decoration="none" href="https://open.spotify.com/artist/2SyxQ7Mp3PFDWNA2yFGtTA?si=2w6P5lcxS-GC2mCQBhAV7g">
-            <img width="32" src="public/spotify.svg" title="Spotify" alt="Spotify"/>
+            <img width="32" src="https://raw.githubusercontent.com/csm-kb/csm-kb/main/public/spotify.svg" title="Spotify" alt="Spotify"/>
           </a>
           &#8287;&#8287;&#8287;
           <a text-decoration="none" href="https://ko-fi.com/kanomeister">
-            <img width="32" src="public/kofi.svg" title="Ko-fi" alt="Ko-fi"/>
+            <img width="32" src="https://raw.githubusercontent.com/csm-kb/csm-kb/main/public/kofi.svg" title="Ko-fi" alt="Ko-fi"/>
           </a>
         </div>
       </td>
@@ -46,9 +46,9 @@ There is always something to learn. I can communicate, I can coordinate, and I c
 <details>
 <summary><b>🎉 Pro Facts!</b></summary>
   
-- I am moderately fluent in Japanese (日本語中級・N4, partial N3)... can hold a decent conversation most of the time!
 - I have extensive experience with systems engineering, full-domain backend API work in TypeScript and Golang (Fiber), and frontend work on web apps via frameworks (React/Next.js, Remix, Vue, and Vite) & raw HTML/CSS/JS, as well as low-level UI engineering in graphics engines and frameworks like Qt and SDL.
 - I have lots of experience tailoring talks to audiences (can explain anything simply; love the challenge!), managing social media and copywriting, and can do VA + video editing work from my background in content creation and streaming.
+- I am moderately fluent in Japanese (日本語中級・N4, partial N3)... can hold a decent conversation most of the time!
 - I believe that the middle-ground of **The Boring Choice™** and **The Bleeding-Edge Choice™** is where some of the best innovation comes from.
 ```
 however, it is also where some of the worst ideas come from, too. there is a fine edge here that requires a trained hand to balance!
@@ -64,7 +64,7 @@ do not forget that every sect of engineering and every problem or application's 
 - I know my way around compiler + language design and computer architecture (including research into photonics), courtesy of my post-graduate studies.
 - For the same reason (+ personal projects), I have experience with player-first game design and game systems + UI engineering in Godot, Unity, and Unreal Engine.
 - I could reinvent the computer from memory, if required... thank you, Nand2Tetris!
-- I nearly worked for 10 Chambers on _GTFO_, but was stolen by Microsoft to work on Azure App Services + Functions. (and then CERN to work on CI/CD modernization...)
+- I nearly worked for the game studio **10 Chambers** on _GTFO_, but was stolen by Microsoft to work on Azure App Services + Functions. (and then CERN to work on CI/CD modernization, etc...)
 
 </details>
 <hr/>
@@ -88,17 +88,17 @@ do not forget that every sect of engineering and every problem or application's 
   - developed strategic relationships with key business partners, advisors, and stakeholders to forge a leading industry position for Venvee
   - architected + implemented a high-volume (>100M records/day) data ingest API in Rust with Kubernetes, Redis, and Protobuf
   - implemented a complete ETL data lakehouse core using the Apache Spark engine (immediately running into the bleeding-edge) on top of big-data format (Delta) tables
-- **CERN Alum** (openlab Summer Student) - https://home.cern/news/news/computing/cern-openlab-trains-next-generation-computing-experts
+- **openlab Summer Student @ CERN** - https://home.cern/news/news/computing/cern-openlab-trains-next-generation-computing-experts
   - worked on EOS (file system for CERN cloud) continuous integration and deployment on multiple architectures via GitLab and Google's Kaniko + Crane tools for two months.
   - yes, the European Center for Nuclear Research... no, there were no black holes or D-mails.
   - 1st place for best presentation = me!
-- **Microsoft Alum** (Software Engineer) - https://azure.microsoft.com/en-us/products/app-service
+- **Software Engineer @ Microsoft** - https://azure.microsoft.com/en-us/products/app-service
   - Azure DevDiv = awesome folks doing amazing stuff under the hood to keep the beast alive!
-- **NGC Alum** (2x Software Engineer Intern) - https://www.northropgrumman.com/
+- **Software Engineer Intern @ NGC** - https://www.northropgrumman.com/
   - worked on an open-source Spring microservices app that could plug smaller apps together... yeah, this was before Kubernetes and containers were cool (or at least, approved).
   - worked on modernization of internal dashboards to the Qt C++ GUI framework, and migrating source code from ClearCase/ClearQuest to enterprise GitLab
 
-... for more details, check out my [LinkedIn](https://linkedin.com/in/kane-bruce).
+... for more details, check out my [LinkedIn](https://linkedin.com/in/kane-bruce)!
 
 **Projects**
 - [fern-go-fiber](https://github.com/fern-api/fern-go) - Go Fiber server-side model generator for Fern, an open-source standard and toolset for building effective APIs
