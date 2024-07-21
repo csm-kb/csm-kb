@@ -14,6 +14,10 @@
             <img width="32" src="public/linkedin.svg" title="Linkedin" alt="Linkedin"/>
           </a>
           &#8287;&#8287;&#8287;
+          <a text-decoration="none" href="https://github.com/csm-kb">
+            <img width="32" src="public/github.svg" title="GitHub" alt="GitHub"/>
+          </a>
+          &#8287;&#8287;&#8287;
           <a text-decoration="none" href="https://open.spotify.com/artist/2SyxQ7Mp3PFDWNA2yFGtTA?si=2w6P5lcxS-GC2mCQBhAV7g">
             <img width="32" src="public/spotify.svg" title="Spotify" alt="Spotify"/>
           </a>
@@ -25,7 +29,7 @@
       </td>
       <td>
         <div>
-          <img src="https://raw.githubusercontent.com/csm-kb/csm-kb/main/public/km-256.png" title="Me (music form)" alt="A stylized image of me wearing a cyberpunk helmet (music form)" />
+          <img src="https://raw.githubusercontent.com/csm-kb/csm-kb/main/public/IMG_me_v2_circle.png" title="Me" alt="A picture of Kane" />
         </div>
       </td>
     </tr>
@@ -44,11 +48,12 @@ There is always something to learn. I can communicate, I can coordinate, and I c
   
 - I am moderately fluent in Japanese (日本語中級・N4, partial N3)... can hold a decent conversation most of the time!
 - I have extensive experience with systems engineering, full-domain backend API work in TypeScript and Golang (Fiber), and frontend work on web apps via frameworks (React/Next.js, Remix, Vue, and Vite) & raw HTML/CSS/JS, as well as low-level UI engineering in graphics engines and frameworks like Qt and SDL.
+- I have lots of experience tailoring talks to audiences (can explain anything simply; love the challenge!), managing social media and copywriting, and can do VA + video editing work from my background in content creation and streaming.
 - I believe that the middle-ground of **The Boring Choice™** and **The Bleeding-Edge Choice™** is where some of the best innovation comes from.
 ```
 however, it is also where some of the worst ideas come from, too. there is a fine edge here that requires a trained hand to balance!
 
-why TLDR: my entire objective is to do as much as possible, with as little as possible. if this means using an ancient tool or matured library that gets the job done every time, then perfect.
+why TLDR: my fundamental core is to do as much as possible, with as little / as simple as possible. if this means using an older tool or matured library that gets the job done every time, then perfect.
 
 in some circumstances, however, newer tools that have had a bit of time to gain traction (and thus aren't one of the "worst ideas") were designed to solve major problems with older tools that gum up DevEx and make my team feel icky or overwhelmed with maintenance -- and we even get the chance to shape those tools with our direct use... especially when the original tool is too "legacy" or inflexible to be contributed to (and god forbid forked for our own purposes).
 
@@ -58,11 +63,99 @@ do not forget that every sect of engineering and every problem or application's 
 ```
 - I know my way around compiler + language design and computer architecture (including research into photonics), courtesy of my post-graduate studies.
 - For the same reason (+ personal projects), I have experience with player-first game design and game systems + UI engineering in Godot, Unity, and Unreal Engine.
-- I have lots of experience tailoring talks to audiences, managing social media and copywriting, and can do VA + video editing work from my background in content creation and streaming.
 - I could reinvent the computer from memory, if required... thank you, Nand2Tetris!
 - I nearly worked for 10 Chambers on _GTFO_, but was stolen by Microsoft to work on Azure App Services + Functions. (and then CERN to work on CI/CD modernization...)
 
 </details>
+<hr/>
+<details open>
+<summary><h4>🏙️ Main Portfolio</h4></summary>
+
+**Positions**
+- **Vice President, Engineering @ Venvee** `[*current]`
+  - I moved to an adjacent role to allow an industry veteran (now friend) to come in, mentor me, and provide additional business & VC connections -- which would've otherwise take me a long time to build!
+  - worked under extraordinary pressure during the company's most critical make-or-break phase to improve work visibility, analyze leadership culture, form cross-company project management strategy for hardware solution deployments, carefully manage tradeoffs in tech debt and document crunch, and monitor + trim cloud cost spend _(it was fun and I learned a ton; but like any crunch, I don't recommend it)_
+  - built an automated end-to-end testing framework using Argo Workflows that saved edge + platform engineers many hundreds of hours (+$ks/mo in compute) in parameter/model tuning and staging validation
+  - see more below!
+- **CTO @ Venvee** - https://venvee.com/
+  - (context: I've used many of the cloud orchestration tools above in this position, having been the sole engineer before the team grew!)
+  - pioneered + pivoted a novel architecture for hybrid serverless, then Helm/FluxCD on EKS, Next.js and Go Fiber powered web apps leveraging AWS and NVIDIA Edge platforms across the entire edge>cloud>web spectrum to handle real-time data ingest and high-volume serving that delivered considerable customer value
+  - implemented incident management + product deployment techniques that saved hundreds of dev triage hours
+  - contributed to bleeding-edge AI/computer vision techniques for persistent real-time camera detection and tracking
+  - implemented best practices for data security, privacy, and compliance (SOC 2, ISO 27001) using Drata and AWS security tools
+  - implemented CI/CD and GitOps w/ GitLab for serverless and container-based apps; including Terraform/Terragrunt for infrastructure-as-code (IaC)
+  - created novel technology for edge deployment and servicing (MLOps, IoT adm.) of heavy data model applications using AWS
+  - developed strategic relationships with key business partners, advisors, and stakeholders to forge a leading industry position for Venvee
+  - architected + implemented a high-volume (>100M records/day) data ingest API in Rust with Kubernetes, Redis, and Protobuf
+  - implemented a complete ETL data lakehouse core using the Apache Spark engine (immediately running into the bleeding-edge) on top of big-data format (Delta) tables
+- **CERN Alum** (openlab Summer Student) - https://home.cern/news/news/computing/cern-openlab-trains-next-generation-computing-experts
+  - worked on EOS (file system for CERN cloud) continuous integration and deployment on multiple architectures via GitLab and Google's Kaniko + Crane tools for two months.
+  - yes, the European Center for Nuclear Research... no, there were no black holes or D-mails.
+  - 1st place for best presentation = me!
+- **Microsoft Alum** (Software Engineer) - https://azure.microsoft.com/en-us/products/app-service
+  - Azure DevDiv = awesome folks doing amazing stuff under the hood to keep the beast alive!
+- **NGC Alum** (2x Software Engineer Intern) - https://www.northropgrumman.com/
+  - worked on an open-source Spring microservices app that could plug smaller apps together... yeah, this was before Kubernetes and containers were cool (or at least, approved).
+  - worked on modernization of internal dashboards to the Qt C++ GUI framework, and migrating source code from ClearCase/ClearQuest to enterprise GitLab
+
+... for more details, check out my [LinkedIn](https://linkedin.com/in/kane-bruce).
+
+**Projects**
+- [fern-go-fiber](https://github.com/fern-api/fern-go) - Go Fiber server-side model generator for Fern, an open-source standard and toolset for building effective APIs
+- Osprey - a high-volume (>100M records/day) scalable data ingest API in Rust with Kubernetes, Redis, and Protobuf
+- ... and other open-source contributions!
+
+</details>
+<hr/>
+<details open>
+<summary><h4>🌆 Night Portfolio</h4></summary>
+
+**Projects**
+- _HoloJam_ - host of the premier Hololive Fan Game Jam, working together with fellow creatives (animators, artists, musicians) to produce exciting teasers and showcases for fellow developers' novel game experiences and experiments!
+
+**Websites / Web Apps**
+- _Midori_ - my own implementation of a chat platform like _Discord_, written with Golang, Next.js, and Electron.
+- _Mokuteki_ - an LLM-backed esports performance tracking and coaching tool, written with Next.js.
+- [A fan site](https://idolshowdown.com) for _Idol Showdown_ - a fan-made idol fighting game made in Unity with GGPO.
+- [A fan site](https://wrestletuber.com) for Dokibird's WRESTLETUBER event - where virtual content creators face off in a championship bracket with customized models made in _WWE 2K23_.
+
+**Original Worlds & Stories**
+- _Norre_ - an original cyberpunk world and lore, with dystopian inspirations.
+- _Lumine & Tenebria_ - an original dark fantasy world and lore, inspired by countless D&D sessions.
+
+**Games**
+
+_Active_
+- `[Godot]` _GiGi_ - a tiny bleak hyperpop retro action RPG inspired by Hades, Final Fantasy 15, and storytelling side-scroller indie games like INSIDE and Nameless.
+- `[Godot]` _HoloOdyssey: The Myth Paradox_ - a tactical role-playing game inspired by Fire Emblem, Final Fantasy, and OCTOPATH TRAVELER, with an emphasis on story and branching paths twisted into a “Hololive/alter” timeline progression. The game differentiates itself from other TRPGs with its signature Chrono-Sync Battle System, Battle Interrupts, unique character world traversal abilities, and a deep interwoven story.
+- `[Godot]` _Holospark!_ - a fast-paced 4v4 competitive first-person shooter with original takes on Hololive characters spun as champions, complete with dynamic movesets and mechanics, in a variety of game modes.
+
+_Complete_
+
+2024
+- `[Godot]` _Connect the World_ - OpenTTD in 3D = Numbers GO UP! Featuring worldwide time-based tech progression, in first person, with elements of automation. Nothing more. Built as a prototype for large-world procedural chunked mesh generation and rendering.
+
+2023
+- `[Godot]` _Bae Game_ - a competitive multiplayer spin on _Suika Game_ with customizable themes, built with Godot and Nakama as a prototype for consistent game architecture in a multiplayer environment.
+- `[Godot]` _Work Sim 1980_ - an economy and business simulation game, based on the Corporation feature in _Bitburner_ and inspired by the endless mode in _Job Simulator VR_ as a prototype for numbers progression.
+
+2022
+- `[Ren'Py]` Implementation work for [_Great Gretuski Studios_](https://www.gretuskigames.com/) on their amazing visual novels!
+
+2021
+- `[Unity]` _Fight or Flight_ - an analog roguelike deckbuilder inspired by _Darkest Dungeon_, _Slay the Spire_, and _Inscryption_. Written in Unity with modding support, for a game design course at uni.
+
+2016
+- `[Unity/UE]` _>fnet()_ - a desktop/terminal simulator hacking game inspired by _Hacknet_, written in Unity (and ported to Unreal Engine 4).
+
+**Other**
+- [_xC/Spectre_](https://github.com/csm-kb/project-xC) - a relatively simple and expandable 64-bit CPU architecture and assembly instruction language. Assembler and virtual machine implement in Python.
+- _GBCBoy_ - a 1:1 GameBoy emulator, written in C with SDL2.
+- _Stargazer_ - a basic from-scratch game engine and a little spaceship simulator with four degrees of freedom, using C++/OpenGL/SDL2, for a computer graphics course.
+
+</details>
+
+<hr/>
 
 If I'm _at least_ ~~combat-effective~~ proficient in a certain language, framework, or tool: it will appear below.
 
@@ -323,91 +416,4 @@ If I'm _at least_ ~~combat-effective~~ proficient in a certain language, framewo
 <li>As a producer, I am focused on melodic bass with an emphasis on <i>essence</i>: a vibrant and fulfilling soundstage that smatters the colorful highs wide, and sets the lows with a fuzzy and warm rumbling. This helps me strike a balance between punchy, powerful mixdowns; and elegant, complex, and emotional chord progressions.</li>
 </ul>
 </ul>
-</details>
-
-<details open>
-<summary><h4>🏙️ Main Portfolio</h4></summary>
-
-**Positions**
-- **Vice President, Engineering @ Venvee** `[*current]`
-  - I moved to an adjacent role to allow an industry veteran (now friend) to come in, mentor me, and provide additional business & VC connections -- which would've otherwise take me a long time to build!
-  - worked under extraordinary pressure during the company's most critical make-or-break phase to improve work visibility, analyze leadership culture, form cross-company project management strategy for hardware solution deployments, carefully manage tradeoffs in tech debt and document crunch, and monitor + trim cloud cost spend _(it was fun and I learned a ton; but like any crunch, I don't recommend it)_
-  - built an automated end-to-end testing framework using Argo Workflows that saved edge + platform engineers many hundreds of hours (+$ks/mo in compute) in parameter/model tuning and staging validation
-  - see more below!
-- **CTO @ Venvee** - https://venvee.com/
-  - (context: I've used many of the cloud orchestration tools above in this position, having been the sole engineer before the team grew!)
-  - pioneered + pivoted a novel architecture for hybrid serverless, then Helm/FluxCD on EKS, Next.js and Go Fiber powered web apps leveraging AWS and NVIDIA Edge platforms across the entire edge>cloud>web spectrum to handle real-time data ingest and high-volume serving that delivered considerable customer value
-  - implemented incident management + product deployment techniques that saved hundreds of dev triage hours
-  - contributed to bleeding-edge AI/computer vision techniques for persistent real-time camera detection and tracking
-  - implemented best practices for data security, privacy, and compliance (SOC 2, ISO 27001) using Drata and AWS security tools
-  - implemented CI/CD and GitOps w/ GitLab for serverless and container-based apps; including Terraform/Terragrunt for infrastructure-as-code (IaC)
-  - created novel technology for edge deployment and servicing (MLOps, IoT adm.) of heavy data models using AWS
-  - developed strategic relationships with key business partners, advisors, and stakeholders to forge a leading industry position for Venvee
-  - architected + implemented a high-volume (>100M records/day) data ingest API in Rust with Kubernetes, Redis, and Protobuf
-  - implemented a complete ETL data lakehouse core using the Apache Spark engine (immediately running into the bleeding-edge) on top of big-data format (Delta) tables
-- **CERN Alum** (openlab Summer Student) - https://home.cern/news/news/computing/cern-openlab-trains-next-generation-computing-experts
-  - worked on EOS (file system for CERN cloud) continuous integration and deployment on multiple architectures via GitLab and Google's Kaniko + Crane tools for two months.
-  - yes, the European Center for Nuclear Research... no, there were no black holes or D-mails.
-  - 1st place for best presentation = me!
-- **Microsoft Alum** (Software Engineer) - https://azure.microsoft.com/en-us/products/app-service
-  - Azure DevDiv = awesome folks doing amazing stuff under the hood to keep the beast alive!
-- **NGC Alum** (2x Software Engineer Intern) - https://www.northropgrumman.com/
-  - worked on an open-source Spring microservices app that could plug smaller apps together... yeah, this was before Kubernetes and containers were cool.
-  - worked on modernization of internal dashboards to the Qt C++ GUI framework, and migrating source code from ClearCase/ClearQuest to enterprise GitLab
-
-... for more details, check out my [LinkedIn](https://linkedin.com/in/kane-bruce).
-
-**Projects**
-- [fern-go-fiber](https://github.com/fern-api/fern-go) - Go Fiber server-side model generator for Fern, an open-source standard and toolset for building effective APIs
-- Osprey - a high-volume (>100M records/day) scalable data ingest API in Rust with Kubernetes, Redis, and Protobuf
-- ... and my open-source contributions!
-
-</details>
-
-<details open>
-<summary><h4>🌆 Night Portfolio</h4></summary>
-
-**Projects**
-- _HoloJam_ - host of the premier Hololive Fan Game Jam, working together with fellow creatives (animators, artists, musicians) to produce exciting teasers and showcases for fellow developers' novel game experiences and experiments!
-
-**Websites / Web Apps**
-- _Midori_ - my own implementation of a chat platform like _Discord_, written with Golang, Next.js, and Electron.
-- _Mokuteki_ - an LLM-backed esports performance tracking and coaching tool, written with Next.js.
-- [A fan site](https://idolshowdown.com) for _Idol Showdown_ - a fan-made idol fighting game made in Unity with GGPO.
-- [A fan site](https://wrestletuber.com) for Dokibird's WRESTLETUBER event - where virtual content creators face off in a championship bracket with customized models made in _WWE 2K23_.
-
-**Original Worlds & Stories**
-- _Norre_ - an original cyberpunk world and lore, with dystopian inspirations.
-- _Lumine & Tenebria_ - an original dark fantasy world and lore, inspired by countless D&D sessions.
-
-**Games**
-
-_Active_
-- `[Godot]` _GiGi_ - a tiny bleak hyperpop retro action RPG inspired by Hades, Final Fantasy 15, and storytelling side-scroller indie games like INSIDE and Nameless.
-- `[Godot]` _HoloOdyssey: The Myth Paradox_ - a tactical role-playing game inspired by Fire Emblem, Final Fantasy, and OCTOPATH TRAVELER, with an emphasis on story and branching paths twisted into a “Hololive/alter” timeline progression. The game differentiates itself from other TRPGs with its signature Chrono-Sync Battle System, Battle Interrupts, unique character world traversal abilities, and a deep interwoven story.
-- `[Godot]` _Holospark!_ - a fast-paced 4v4 competitive first-person shooter with original takes on Hololive characters spun as champions, complete with dynamic movesets and mechanics, in a variety of game modes.
-
-_Complete_
-
-2024
-- `[Godot]` _Connect the World_ - OpenTTD in 3D = Numbers GO UP! Featuring worldwide time-based tech progression, in first person, with elements of automation. Nothing more. Built as a prototype for large-world procedural chunked mesh generation and rendering.
-
-2023
-- `[Godot]` _Bae Game_ - a competitive multiplayer spin on _Suika Game_ with customizable themes, built with Godot and Nakama as a prototype for consistent game architecture in a multiplayer environment.
-- `[Godot]` _Work Sim 1980_ - an economy and business simulation game, based on the Corporation feature in _Bitburner_ and inspired by the endless mode in _Job Simulator VR_ as a prototype for numbers progression.
-
-2022
-- `[Ren'Py]` Implementation work for [_Great Gretuski Studios_](https://www.gretuskigames.com/) on their amazing visual novels!
-
-2021
-- `[Unity]` _Fight or Flight_ - an analog roguelike deckbuilder inspired by _Darkest Dungeon_, _Slay the Spire_, and _Inscryption_. Written in Unity with modding support, for a game design course at uni.
-
-2016
-- `[Unity/UE]` _>fnet()_ - a desktop/terminal simulator hacking game inspired by _Hacknet_, written in Unity (and ported to Unreal Engine 4).
-
-**Other**
-- [_xC/Spectre_](https://github.com/csm-kb/project-xC) - a relatively simple and expandable 64-bit CPU architecture and assembly instruction language. Assembler and virtual machine implement in Python.
-- _GBCBoy_ - a 1:1 GameBoy emulator, written in C with SDL2.
-- _Stargazer_ - a basic from-scratch game engine and a little spaceship simulator with four degrees of freedom, using C++/OpenGL/SDL2, for a computer graphics course.
-
 </details>
