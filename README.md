@@ -47,10 +47,16 @@ There is always something to learn. I can communicate, I can coordinate, and I c
 <summary><h4>🏙️ Main Portfolio</h4></summary>
 
 **Positions**
-- **Vice President, Engineering @ Venvee** `[*current]`
-  - I moved to an adjacent role to allow an industry veteran (now friend) to come in, mentor me, and provide additional business & VC connections -- which would've otherwise take me a long time to build!
+- **Vice President, Engineering @ Venvee**
+  - `[*]` I moved to an adjacent role to allow an industry veteran (now friend) to come in, mentor me, and provide additional business & VC connections -- which would've otherwise take me a long time to build!
   - worked under extraordinary pressure during the company's most critical make-or-break phase to improve work visibility, analyze leadership culture, form cross-company project management strategy for hardware solution deployments, carefully manage tradeoffs in tech debt and document crunch, and monitor + trim cloud cost spend _(it was fun and I learned a ton; but like any crunch, I don't recommend it)_
-  - built an automated end-to-end testing framework using Argo Workflows that saved edge + platform engineers many hundreds of hours (+$ks/mo in compute) in parameter/model tuning and staging validation
+  - landed the breakthrough product by expanding platform, health, metrics, and documentation
+  - assisted everyone (seriously) in times of need by maintaining extremely deep source-level domain knowledge of the entire product, contributing code solutions and serving as a vital business translator
+  - learned the lesson of making tactical debt tradeoffs to meet the tight deadlines that would make-or-break get the product off the ground
+  - onboarded tenants and critically assisted with site hardware deployments and calibrations
+  - saved tons of money in compute costs by building an auto-scaling CI-triggered automatic testing platform using Argo, Karpenter, and FluxCD on EKS
+  - significantly reduced cost of product-derived data analytics by heading the R&D of new capabilities and bleeding-edge AI/ML features & models
+  - kept our technical partners smiling about our relationships!
   - see more below!
 - **CTO @ Venvee** - https://venvee.com/
   - (context: I've used many of the cloud orchestration tools above in this position, having been the sole engineer before the team grew!)
