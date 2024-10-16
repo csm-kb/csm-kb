@@ -69,20 +69,26 @@ There is always something to learn. I can communicate, I can coordinate, and I c
   - developed strategic relationships w/ key technical partners, advisors, and stakeholders to unblock engineering teams in the production environment and enable customer success
   - architected + implemented a high-volume (>100M records/day) data ingest API in Rust w/ Kubernetes, Redis, and Protobuf
   - implemented a multi-tenant ETL data lake-house core using Apache Spark on big data tables (Icebern + Delta) via cloud storage
+- **Software Engineer II @ Microsoft** - https://azure.microsoft.com/en-us/products/app-service
+  - improved configurability of App Service telemetry and monitoring via deep source changes
+  - enabled government customers by servicing App Service + Functions architecture & deployments in sovereign cloud environments
+  - identified and mitigated pain points in monitoring/telemetry for modernization of App Service from Cloud Services to VMSS
+  - instrumented metrics & events via EventSource in C#/.NET with the OpenTelemetry standard
 - **openlab Summer Student @ CERN** - https://home.cern/news/news/computing/cern-openlab-trains-next-generation-computing-experts
   - worked on EOS (file system for CERN cloud) continuous integration and deployment on multiple architectures via GitLab and Google's Kaniko + Crane tools for two months.
   - yes, the European Center for Nuclear Research... no, there were no black holes or D-mails.
   - 1st place for best presentation = me!
-- **Software Engineer @ Microsoft** - https://azure.microsoft.com/en-us/products/app-service
-  - Azure DevDiv = awesome folks doing amazing stuff under the hood to keep the beast alive!
 - **Software Engineer Intern @ NGC** - https://www.northropgrumman.com/
   - worked on an open-source Spring microservices app that could plug smaller apps together... yeah, this was before Kubernetes and containers were cool (or at least, approved).
   - worked on modernization of internal dashboards to the Qt C++ GUI framework, and migrating source code from ClearCase/ClearQuest to enterprise GitLab
 
+- **Founder @ Omnith**
+  - if I do contracting work, or build cool new products/technologies by myself or with a team that needs a business structure, it is often under this namesake!
+
 ... for more details, check out my [LinkedIn](https://linkedin.com/in/kane-bruce)!
 
 **Projects**
-- [fern-go-fiber](https://github.com/fern-api/fern-go) - Go Fiber server-side model generator for Fern, an open-source standard and toolset for building effective APIs
+- [fern-go-model](https://github.com/fern-api/fern) - Go Fiber server-side model generator for Fern, an open-source standard and toolset for building effective APIs
 - Osprey - a high-volume (>100M records/day) scalable data ingest API in Rust with Kubernetes, Redis, and Protobuf
 - ... and other open-source contributions!
 
