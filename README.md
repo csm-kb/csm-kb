@@ -38,8 +38,8 @@
 
 ### **Yo! I'm Kane. 「ケイン」と申します！**
 
-I specialize in enterprise-scale distributed system design and software architecture, CI/CD and cloud orchestration, and leading teams with an emphasis on high-quality sustainable output.
-> One of my most important traits is that I am **adaptable**, and can pick up anything very quickly.
+I specialize in enterprise-scale distributed system design and software architecture, CI/CD and cloud orchestration, and leading mid-size engineering teams with an emphasis on high-quality sustainable output.
+> I am **easygoing**, **adaptable**, and can pick up anything very quickly!
 
 There is always something to learn. I can communicate, I can coordinate, and I can congregate -- nothing beats working with awesome folks and mentors, and scrying new learnings from crazy projects!
 
