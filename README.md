@@ -48,27 +48,27 @@ There is always something to learn. I can communicate, I can coordinate, and I c
 
 **Positions**
 - **Vice President, Engineering @ Venvee**
-  - `[*]` I moved to an adjacent role to allow an industry veteran (now friend) to come in, mentor me, and provide additional business & VC connections -- which would've otherwise take me a long time to build!
+  - `[*]` I moved to an adjacent role to allow an industry veteran to mentor me and provide additional business & VC connections -- which would've otherwise taken me a long time to build!
   - worked under extraordinary pressure during the company's most critical make-or-break phase to improve work visibility, analyze leadership culture, form cross-company project management strategy for hardware solution deployments, carefully manage tradeoffs in tech debt and document crunch, and monitor + trim cloud cost spend _(it was fun and I learned a ton; but like any crunch, I don't recommend it)_
-  - landed the breakthrough product by expanding platform, health, metrics, and documentation
-  - assisted everyone (seriously) in times of need by maintaining extremely deep source-level domain knowledge of the entire product, contributing code solutions and serving as a vital business translator
-  - learned the lesson of making tactical debt tradeoffs to meet the tight deadlines that would make-or-break get the product off the ground
-  - onboarded tenants and critically assisted with site hardware deployments and calibrations
-  - saved tons of money in compute costs by building an auto-scaling CI-triggered automatic testing platform using Argo, Karpenter, and FluxCD on EKS
-  - significantly reduced cost of product-derived data analytics by heading the R&D of new capabilities and bleeding-edge AI/ML features & models
-  - kept our technical partners smiling about our relationships!
-  - see more below!
+  - directed internal platform roadmaps and cross-collaborated with CPO and 3 lead engineers to manage stakeholder expectations and devise critical projects for the core product roadmap
+  - managed budgets by reducing cloud compute spend to under 10k/mo (30% savings) and optimizing data pipeline architecture to compress time-series data storage by 20x  using Parquet
+  - performed extensive code reviews in Golang,TypeScript, and Python to uphold code quality for web, data, and platform teams
+  - maintained 1:1 syncs with reports, peers, and leadership to uncover any technical challenges and provide optimal business solutions; provided strategic guidance to ensure my directs were mentored properly and growth opportunities were met
+  - ensured breakthrough product delivery was successful by automating edge-cloud end-to-end testing and infra deployments, implementing observability using OpenTelemetry, and refactoring documentation in Jira + Confluence
+  - assisted platform, edge/data, and web teams in times of need by maintaining extremely deep source-level domain knowledge of full product, contributing solutions and serving as a vital business translator
+  - made tactical debt tradeoffs to meet the tight deadlines that would make-or-break get the product off the ground
+  - onboarded new enterprise customers and critically assisted with site hardware deployments
 - **CTO @ Venvee** - https://venvee.com/
-  - (context: I've used many of the cloud orchestration tools above in this position, having been the sole engineer before the team grew!)
-  - pioneered + pivoted a novel architecture for hybrid serverless, then Helm/FluxCD on EKS, Next.js and Go Fiber powered web apps leveraging AWS and NVIDIA Edge platforms across the entire edge>cloud>web spectrum to handle real-time data ingest and high-volume serving that delivered considerable customer value
-  - implemented incident management + product deployment techniques that saved hundreds of dev triage hours
-  - contributed to bleeding-edge AI/computer vision techniques for persistent real-time camera detection and tracking
-  - implemented best practices for data security, privacy, and compliance (SOC 2, ISO 27001) using Drata and AWS security tools
-  - implemented CI/CD and GitOps w/ GitLab for serverless and container-based apps; including Terraform/Terragrunt for infrastructure-as-code (IaC)
-  - created novel technology for edge deployment and servicing (MLOps, IoT adm.) of heavy data model applications using AWS
-  - developed strategic relationships with key business partners, advisors, and stakeholders to forge a leading industry position for Venvee
-  - architected + implemented a high-volume (>100M records/day) data ingest API in Rust with Kubernetes, Redis, and Protobuf
-  - implemented a complete ETL data lakehouse core using the Apache Spark engine (immediately running into the bleeding-edge) on top of big-data format (Delta) tables
+  - I was the first hire!
+  - enabled tens of millions of dollars in customer value by architecting a complete distributed system & product leveraging AWS and NVIDIA platforms to handle real-time data ingest & ETL of billions of records
+  - saved >500 dev triage hours by implementing incident management + automated product deployment techniques
+  - devised AI/computer vision techniques for real-time multi-camera object detection and tracking by designing and testing novel algorithms in collaboration w/ edge/data team
+  - implemented a data security, privacy, and compliance pipeline (SOC 2, ISO 27001) with Drata + AWS
+  - enabled daily deployments and same-day dev review cycles by implementing CI/CD + GitOps practices with GitLab for serverless and container-based apps
+  - created novel tech for edge deployment & servicing (MLOps, IoT adm.) of heavy data models leveraging IoT cloud services
+  - developed strategic relationships w/ key technical partners, advisors, and stakeholders to unblock engineering teams in the production environment and enable customer success
+  - architected + implemented a high-volume (>100M records/day) data ingest API in Rust w/ Kubernetes, Redis, and Protobuf
+  - implemented a multi-tenant ETL data lake-house core using Apache Spark on big data tables (Icebern + Delta) via cloud storage
 - **openlab Summer Student @ CERN** - https://home.cern/news/news/computing/cern-openlab-trains-next-generation-computing-experts
   - worked on EOS (file system for CERN cloud) continuous integration and deployment on multiple architectures via GitLab and Google's Kaniko + Crane tools for two months.
   - yes, the European Center for Nuclear Research... no, there were no black holes or D-mails.
