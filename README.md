@@ -46,7 +46,7 @@ There is always something to learn. I can communicate, I can coordinate, and I c
 <details open>
 <summary><h4>🏙️ Main Portfolio</h4></summary>
 
-**Positions**
+**Past Positions**
 - **Vice President, Engineering @ Venvee**
   - `[*]` I moved to an adjacent role to allow an industry veteran to mentor me and provide additional business & VC connections -- which would've otherwise taken me a long time to build!
   - worked under extraordinary pressure during the company's most critical make-or-break phase to improve work visibility, analyze leadership culture, form cross-company project management strategy for hardware solution deployments, carefully manage tradeoffs in tech debt and document crunch, and monitor + trim cloud cost spend _(it was fun and I learned a ton; but like any crunch, I don't recommend it)_
@@ -88,6 +88,7 @@ There is always something to learn. I can communicate, I can coordinate, and I c
 ... for more details, check out my [LinkedIn](https://linkedin.com/in/kane-bruce)!
 
 **Projects**
+- Edgetail - a canonical log engine service based on o11y 2.0 best practices; an open-source alternative to Honeycomb and Baselime
 - [fern-go-model](https://github.com/fern-api/fern) - Go Fiber server-side model generator for Fern, an open-source standard and toolset for building effective APIs
 - Osprey - a high-volume (>100M records/day) scalable data ingest API in Rust with Kubernetes, Redis, and Protobuf
 - ... and other open-source contributions!
