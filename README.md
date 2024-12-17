@@ -47,7 +47,7 @@ There is always something to learn. I can communicate, I can coordinate, and I c
 <summary><h4>🏙️ Main Portfolio</h4></summary>
 
 **Past Positions**
-- **Vice President, Engineering @ Venvee**
+- **Principal Software Engineer / VPE @ Venvee**
   - `[*]` I moved to an adjacent role to allow an industry veteran to mentor me and provide additional business & VC connections -- which would've otherwise taken me a long time to build!
   - worked under extraordinary pressure during the company's most critical make-or-break phase to improve work visibility, analyze leadership culture, form cross-company project management strategy for hardware solution deployments, carefully manage tradeoffs in tech debt and document crunch, and monitor + trim cloud cost spend _(it was fun and I learned a ton; but like any crunch, I don't recommend it)_
   - directed internal platform roadmaps and cross-collaborated with CPO and 3 lead engineers to manage stakeholder expectations and devise critical projects for the core product roadmap
@@ -100,12 +100,14 @@ There is always something to learn. I can communicate, I can coordinate, and I c
 
 **Projects**
 - _HoloJam_ - host of the premier Hololive Fan Game Jam, working together with fellow creatives (animators, artists, musicians) to produce exciting teasers and showcases for fellow developers' novel game experiences and experiments!
+- _Ship AI_ - a local gaming AI assistant with customizable personality and voice commands for key macros; coming soon!
 
 **Websites / Web Apps**
 - _Midori_ - my own implementation of a chat platform like _Discord_, written with Golang, Next.js, and Electron.
 - _Mokuteki_ - an LLM-backed esports performance tracking and coaching tool, written with Next.js.
 - [A fan site](https://idolshowdown.com) for _Idol Showdown_ - a fan-made idol fighting game made in Unity with GGPO.
 - [A fan site](https://wrestletuber.com) for Dokibird's WRESTLETUBER event - where virtual content creators face off in a championship bracket with customized models made in _WWE 2K23_.
+- [_HoloPass_](https://holo-pass.com), a light social media app for tracking event attendances and oshis; I built the geolocation check-in feature!
 
 **Original Worlds & Stories**
 - _Norre_ - an original cyberpunk world and lore, with dystopian inspirations.
