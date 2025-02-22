@@ -43,7 +43,7 @@ I specialize in enterprise-scale distributed system design and software architec
 
 There is always something to learn. I can communicate, I can coordinate, and I can congregate -- nothing beats working with awesome folks and mentors, and scrying new learnings from crazy projects!
 
-<details open>
+<details>
 <summary><h4>🏙️ Main Portfolio</h4></summary>
 
 **Past Positions**
@@ -100,7 +100,7 @@ There is always something to learn. I can communicate, I can coordinate, and I c
 
 **Projects**
 - _HoloJam_ - host of the premier Hololive Fan Game Jam, working together with fellow creatives (animators, artists, musicians) to produce exciting teasers and showcases for fellow developers' novel game experiences and experiments!
-- _Ship AI_ - a local gaming AI assistant with customizable personality and voice commands for key macros; coming soon!
+- _Ship AI_ - a local gaming assistant powered by ASR with customizable personality and voice commands for key macros; coming soon!
 
 **Websites / Web Apps**
 - _Midori_ - my own implementation of a chat platform like _Discord_, written with Golang, Next.js, and Electron.
@@ -112,13 +112,14 @@ There is always something to learn. I can communicate, I can coordinate, and I c
 **Original Worlds & Stories**
 - _Norre_ - an original cyberpunk world and lore, with dystopian inspirations.
 - _Lumine & Tenebria_ - an original dark fantasy world and lore, inspired by countless D&D sessions.
+- _Ephemeia_ - my own take on the _Ace Combat_-style "two modern nations are at war" fantasy world theme, with stories split across Air, Sea, and Land.
 
 **Games**
 
 _Active_
 - `[Godot]` _GiGi_ - a tiny bleak hyperpop retro action RPG inspired by Hades, Final Fantasy 15, and storytelling side-scroller indie games like INSIDE and Nameless.
 - `[Godot]` _HoloOdyssey: The Myth Paradox_ - a tactical role-playing game inspired by Fire Emblem, Final Fantasy, and OCTOPATH TRAVELER, with an emphasis on story and branching paths twisted into a “Hololive/alter” timeline progression. The game differentiates itself from other TRPGs with its signature Chrono-Sync Battle System, Battle Interrupts, unique character world traversal abilities, and a deep interwoven story.
-- `[Godot]` _Holospark!_ - a fast-paced 4v4 competitive first-person shooter with original takes on Hololive characters spun as champions, complete with dynamic movesets and mechanics, in a variety of game modes.
+- `[Godot]` _Holospark!_ - a fast-paced 4v4 competitive first-person shooter with a distinctive core game mode (4v4 Destruction) and original takes on Hololive characters spun as heroes (Idols), complete with dynamic movesets and mechanics in a variety of modes.
 
 _Complete_
 
