@@ -99,8 +99,8 @@ There is always something to learn. I can communicate, I can coordinate, and I c
 <summary><h4>🌆 Night Portfolio</h4></summary>
 
 **Projects**
-- _HoloJam_ - host of the premier Hololive Fan Game Jam, working together with fellow creatives (animators, artists, musicians) to produce exciting teasers and showcases for fellow developers' novel game experiences and experiments!
-- _Ship AI_ - a local gaming assistant powered by ASR with customizable personality and voice commands for key macros; coming soon!
+- _HoloJam_ - host of the premier Hololive Fan Game Jam. As director + producer, I pull together fellow creatives (animators, artists, musicians) to produce exciting teasers, trailers, and showcases for fellow developers' games and experiments to share with the broader community!
+- _Ship AI_ - a local gaming assistant powered by ASR with customizable personality and voice commands for key macros.
 
 **Websites / Web Apps**
 - _Midori_ - my own implementation of a chat platform like _Discord_, written with Golang, Next.js, and Electron.
@@ -117,9 +117,10 @@ There is always something to learn. I can communicate, I can coordinate, and I c
 **Games**
 
 _Active_
-- `[Godot]` _GiGi_ - a tiny bleak hyperpop retro action RPG inspired by Hades, Final Fantasy 15, and storytelling side-scroller indie games like INSIDE and Nameless.
-- `[Godot]` _HoloOdyssey: The Myth Paradox_ - a tactical role-playing game inspired by Fire Emblem, Final Fantasy, and OCTOPATH TRAVELER, with an emphasis on story and branching paths twisted into a “Hololive/alter” timeline progression. The game differentiates itself from other TRPGs with its signature Chrono-Sync Battle System, Battle Interrupts, unique character world traversal abilities, and a deep interwoven story.
-- `[Godot]` _Holospark!_ - a fast-paced 4v4 competitive first-person shooter with a distinctive core game mode (4v4 Destruction) and original takes on Hololive characters spun as heroes (Idols), complete with dynamic movesets and mechanics in a variety of modes.
+- `[Godot]` _Ephemeia_ - a radar screen top-down RTS set in an original fantasy world.
+- `[Godot]` _GiGi_ - a tiny bleak hyperpop retro action RPG inspired by Hades, Final Fantasy 15, and storytelling side-scroller indie games like _INSIDE_ and _Nameless_.
+- `[Godot]` _HoloOdyssey: The Myth Paradox_ - a tactical role-playing game inspired by _Fire Emblem_, _Final Fantasy_, and _OCTOPATH TRAVELER_, with an emphasis on story and branching paths twisted into a “Hololive/alter” timeline progression. The game differentiates itself from other TRPGs with its signature Chrono-Sync Battle System, Battle Interrupts, unique character world traversal abilities, and a deep interwoven story.
+- `[Godot]` _Holospark!_ - a fast-paced 4v4 hero shooter with a distinctive core game mode (4v4 Destruction) and original takes on Hololive characters spun as heroes (Idols), complete with dynamic movesets and mechanics in a variety of modes.
 
 _Complete_
 
