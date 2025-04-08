@@ -7,7 +7,7 @@
           <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=32&duration=1&pause=300000000000000000&color=B0B0B0&random=false&width=220&height=48&lines=%3E%3E+Kane+Bruce" title="That's me :D" alt="Kane Bruce" />
         </a>
         <br/>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=32&duration=1000&pause=1000&color=7ACAF2&random=false&center=true&width=420&height=48&lines=%E6%A5%BD+%2F%2F+CTO;%E6%9B%B2+%2F%2F+Software+Engineer;%E6%B0%97+%2F%2F+I+make+things+work!+%3AD" title="Those are also me :D" alt="CTO // Software Engineer // I make things work! :D" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=600&size=32&duration=1000&pause=1000&color=7ACAF2&random=false&center=true&width=420&height=48&lines=%E6%A5%BD+%2F%2F+Tech Lead;%E6%9B%B2+%2F%2F+Engineer;%E6%B0%97+%2F%2F+I+make+things+work!+%3AD" title="Those are also me :D" alt="Tech Lead // Software Engineer // I make things work! :D" /></a>
         <br/>
         <div align="center">
           <a text-decoration="none" href="https://linkedin.com/in/kane-bruce">
