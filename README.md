@@ -46,13 +46,21 @@ There is always something to learn. I can communicate, I can coordinate, and I c
 <details>
 <summary><h4>🏙️ Main Portfolio</h4></summary>
 
+**Current Positions**
+- **Senior Software Engineer @ RTX**
+  - owned, maintained, and cross-collaborated on satellite & ground station sims and systems for customers requiring M2C2 capabilities
+  - increased agility by mentoring fellow engineers on advanced tech (Docker, Kubernetes, AWS + more) and past experiences to solve more problems faster
+
+- **Founder @ Omnith**
+  - if I do contracting work, or build cool new products/technologies by myself or with a team that needs a business structure, it is often under this namesake!
+
 **Past Positions**
 - **Principal Software Engineer / VPE @ Venvee**
   - `[*]` I moved to an adjacent role to allow an industry veteran to mentor me and provide additional business & VC connections -- which would've otherwise taken me a long time to build!
   - worked under extraordinary pressure during the company's most critical make-or-break phase to improve work visibility, analyze leadership culture, form cross-company project management strategy for hardware solution deployments, carefully manage tradeoffs in tech debt and document crunch, and monitor + trim cloud cost spend _(it was fun and I learned a ton; but like any crunch, I don't recommend it)_
-  - directed internal platform roadmaps and cross-collaborated with CPO and 3 lead engineers to manage stakeholder expectations and devise critical projects for the core product roadmap
+  - directed internal platform roadmaps and cross-collaborated with CPO and lead engineers to manage stakeholder expectations and devise critical projects for the core product roadmap
   - managed budgets by reducing cloud compute spend to under 10k/mo (30% savings) and optimizing data pipeline architecture to compress time-series data storage by 20x  using Parquet
-  - performed extensive code reviews in Golang,TypeScript, and Python to uphold code quality for web, data, and platform teams
+  - performed extensive code reviews in Golang, TypeScript, and Python to uphold code quality for web, data, and platform teams
   - maintained 1:1 syncs with reports, peers, and leadership to uncover any technical challenges and provide optimal business solutions; provided strategic guidance to ensure my directs were mentored properly and growth opportunities were met
   - ensured breakthrough product delivery was successful by automating edge-cloud end-to-end testing and infra deployments, implementing observability using OpenTelemetry, and refactoring documentation in Jira + Confluence
   - assisted platform, edge/data, and web teams in times of need by maintaining extremely deep source-level domain knowledge of full product, contributing solutions and serving as a vital business translator
@@ -81,9 +89,6 @@ There is always something to learn. I can communicate, I can coordinate, and I c
 - **Software Engineer Intern @ NGC** - https://www.northropgrumman.com/
   - worked on an open-source Spring microservices app that could plug smaller apps together... yeah, this was before Kubernetes and containers were cool (or at least, approved).
   - worked on modernization of internal dashboards to the Qt C++ GUI framework, and migrating source code from ClearCase/ClearQuest to enterprise GitLab
-
-- **Founder @ Omnith**
-  - if I do contracting work, or build cool new products/technologies by myself or with a team that needs a business structure, it is often under this namesake!
 
 ... for more details, check out my [LinkedIn](https://linkedin.com/in/kane-bruce)!
 
