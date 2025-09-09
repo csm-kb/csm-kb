@@ -53,6 +53,10 @@ There is always something to learn. I can communicate, I can coordinate, and I c
 
 - **Founder @ Omnith**
   - if I do contracting work, or build cool new products/technologies by myself or with a team that needs a business structure, it is often under this namesake!
+ 
+- **Co-Founder @ Clubcast**
+  - platform that dozens of club sports orgs and teams rely on to stream + record sports events for supporting fans and raise funds from them.
+  - designed, built, and deployed a multi-tenant ticketed streaming platform from the ground up (Postgres / Supabase + Express + SvelteKit + Stripe + media gateway + CloudFront CDN) that can reliably handle hundreds of thousands of requests and thousands of concurrent users per day, in less than two weeks!
 
 **Past Positions**
 - **Principal Software Engineer / VPE @ Venvee**
