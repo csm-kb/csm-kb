@@ -110,6 +110,7 @@ There is always something to learn. I can communicate, I can coordinate, and I c
 
 **Projects**
 - _HoloJam_ - host of the premier Hololive Fan Game Jam. As director + producer, I pull together fellow creatives (animators, artists, musicians) to produce exciting teasers, trailers, and showcases for fellow developers' games and experiments to share with the broader community!
+- _Doki Jam_ - host / director / producer of Dokibird's first game jam, bringing over 1000 devs together to collab & create ~250 games! Collaborated w/ her project team to make it happen.
 - _Ship AI_ - a local gaming assistant powered by ASR with customizable personality and voice commands for key macros.
 
 **Websites / Web Apps**
