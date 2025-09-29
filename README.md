@@ -48,8 +48,9 @@ There is always something to learn. I can communicate, I can coordinate, and I c
 
 **Current Positions**
 - **Senior Software Engineer @ RTX**
+  - led the team that architected & built the next evolution of an automated self-serve internal developer platform, enabling dozens of teams across programs to manage AWS infra for hundreds of dev VMs and production runtimes + estimate & manage traceable costs across charge codes
   - owned, maintained, and cross-collaborated on satellite & ground station sims and systems for customers requiring M2C2 capabilities
-  - increased agility by mentoring fellow engineers on advanced tech (Docker, Kubernetes, AWS + more) and past experiences to solve more problems faster
+  - increased agility by mentoring engineers on commercial tech (Docker, Kubernetes, AWS + more) to solve problems faster
 
 - **Founder @ Omnith**
   - if I do contracting work, or build cool new products/technologies by myself or with a team that needs a business structure, it is often under this namesake!
@@ -65,14 +66,14 @@ There is always something to learn. I can communicate, I can coordinate, and I c
   - directed internal platform roadmaps and cross-collaborated with CPO and lead engineers to manage stakeholder expectations and devise critical projects for the core product roadmap
   - managed budgets by reducing cloud compute spend to under 10k/mo (30% savings) and optimizing data pipeline architecture to compress time-series data storage by 20x  using Parquet
   - performed extensive code reviews in Golang, TypeScript, and Python to uphold code quality for web, data, and platform teams
-  - maintained 1:1 syncs with reports, peers, and leadership to uncover any technical challenges and provide optimal business solutions; provided strategic guidance to ensure my directs were mentored properly and growth opportunities were met
+  - maintained 1:1 syncs with reports, peers, and leadership to uncover technical challenges and provide optimal business solutions; provided strategic guidance to ensure my directs were mentored properly and growth opportunities were given
   - ensured breakthrough product delivery was successful by automating edge-cloud end-to-end testing and infra deployments, implementing observability using OpenTelemetry, and refactoring documentation in Jira + Confluence
-  - assisted platform, edge/data, and web teams in times of need by maintaining extremely deep source-level domain knowledge of full product, contributing solutions and serving as a vital business translator
+  - assisted platform, edge/data, and web teams in times of need with extremely deep source-level domain knowledge of full product, contributing solutions and serving as a vital business translator
   - made tactical debt tradeoffs to meet the tight deadlines that would make-or-break get the product off the ground
   - onboarded new enterprise customers and critically assisted with site hardware deployments
 - **CTO @ Venvee** - https://venvee.com/
   - I was the first hire!
-  - enabled tens of millions of dollars in customer value by architecting a complete distributed system & product leveraging AWS and NVIDIA platforms to handle real-time data ingest & ETL of billions of records
+  - enabled tens of millions of dollars in customer value by architecting a complete distributed system & product leveraging AWS and NVIDIA platforms to handle real-time data ingest & batch ETL of billions of records
   - saved >500 dev triage hours by implementing incident management + automated product deployment techniques
   - devised AI/computer vision techniques for real-time multi-camera object detection and tracking by designing and testing novel algorithms in collaboration w/ edge/data team
   - implemented a data security, privacy, and compliance pipeline (SOC 2, ISO 27001) with Drata + AWS
@@ -129,7 +130,9 @@ _Active_
 - `[Godot]` _Ephemeia_ - a radar screen top-down RTS set in an original fantasy world.
 - `[Godot]` _GiGi_ - a tiny bleak hyperpop retro action RPG inspired by Hades, Final Fantasy 15, and storytelling side-scroller indie games like _INSIDE_ and _Nameless_.
 - `[Godot]` _HoloOdyssey: The Myth Paradox_ - a tactical role-playing game inspired by _Fire Emblem_, _Final Fantasy_, and _OCTOPATH TRAVELER_, with an emphasis on story and branching paths twisted into a “Hololive/alter” timeline progression. The game differentiates itself from other TRPGs with its signature Chrono-Sync Battle System, Battle Interrupts, unique character world traversal abilities, and a deep interwoven story.
-- `[Godot]` _Holospark!_ - a fast-paced 4v4 hero shooter with a distinctive core game mode (4v4 Destruction) and original takes on Hololive characters spun as heroes (Idols), complete with dynamic movesets and mechanics in a variety of modes.
+
+_Paused_
+- `[Godot]` _[name tbd]_ - a fast-paced 4v4 PvE + PvP hero shooter with a distinctive core game mode and original takes on Hololive characters spun as heroes (Idols), complete with dynamic movesets and mechanics in a variety of modes.
 
 _Complete_
 
