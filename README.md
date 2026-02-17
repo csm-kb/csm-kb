@@ -47,13 +47,13 @@ There is always something to learn. I can communicate, I can coordinate, and I c
 <summary><h4>🏙️ Main Portfolio</h4></summary>
 
 **Current Positions**
-- **Senior Software Engineer @ RTX**
-  - led the team that architected & built the next evolution of an automated self-serve internal developer platform, enabling dozens of teams across programs to manage AWS infra for hundreds of dev VMs and production runtimes + estimate & manage traceable costs across charge codes
+- **Principal Software Engineer @ RTX**
+  - led the Developer Experience team that architected & built the next evolution of an automated self-serve internal developer platform, enabling dozens of teams across programs to manage AWS infra for hundreds of dev VMs and production runtimes + estimate & manage traceable costs across charge codes
   - owned, maintained, and cross-collaborated on satellite & ground station sims and systems for customers requiring M2C2 capabilities
   - increased agility by mentoring engineers on commercial tech (Docker, Kubernetes, AWS + more) to solve problems faster
 
 - **Founder @ Omnith**
-  - if I do contracting work, or build cool new products/technologies by myself or with a team that needs a business structure, it is often under this namesake!
+  - when I do F500 consulting or contracting work, or build cool new products/technologies by myself or with a team, it is often under this namesake!
  
 - **Co-Founder @ Clubcast**
   - platform that dozens of club sports orgs and teams rely on to stream + record sports events for supporting fans and raise funds from them.
