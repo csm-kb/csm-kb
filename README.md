@@ -105,7 +105,7 @@ There is always something to learn. I can communicate, I can coordinate, and I c
 
 </details>
 <hr/>
-<details open>
+<details>
 <summary><h4>🌆 Night Portfolio</h4></summary>
 
 **Projects**
