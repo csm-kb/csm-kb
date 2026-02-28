@@ -38,10 +38,10 @@
 
 ### **Yo! I'm Kane. 「ケイン」と申します！**
 
-I specialize in enterprise-scale distributed system design and software architecture, CI/CD and cloud orchestration, and leading mid-size engineering teams with an emphasis on high-quality sustainable output.
+I specialize in enterprise-scale software architecture, platform engineering (including CI/CD and cloud orchestration), developer experience, and leading mid-size engineering teams with an emphasis on high-quality sustainable output.
 > I am **easygoing**, **adaptable**, and can pick up anything very quickly!
 
-There is always something to learn. I can communicate, I can coordinate, and I can congregate -- nothing beats working with awesome folks and mentors, and scrying new learnings from crazy projects! Name a tool or framework or project, I either know it or can learn it in a heartbeat.
+There is always something to learn. I can communicate, I can coordinate, and I can congregate -- nothing beats working with awesome folks and mentors, and scrying new learnings from crazy projects!
 
 <details>
 <summary><h4>🏙️ Main Portfolio</h4></summary>
