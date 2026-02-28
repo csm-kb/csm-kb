@@ -95,15 +95,16 @@ There is always something to learn. I can communicate, I can coordinate, and I c
   - worked on modernization of internal dashboards to the Qt C++ GUI framework, and migrating source code from ClearCase/ClearQuest to enterprise GitLab
 
 ... for more details, check out my [LinkedIn](https://linkedin.com/in/kane-bruce)!
+</details>
+<details>
+<summary><h4>👩‍💻 Key Projects</h4></summary>
 
-**Projects**
 - _Orbweaver_ - a self-managing satellite constellation platform, for handling space infra swarms in varying orbits with minimal ground downlink (inspired by Google's [Project Suncatcher](https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design/))
 - _Forge_ - mobile app that lets me interface with remote `claude-code` agents hosted on e.g. my computer, laptop, or servers via secure link
 - _Edgetail_ - a canonical log engine service based on o11y 2.0 best practices; an open-source alternative to Honeycomb and Baselime
 - [fern-go-model](https://github.com/fern-api/fern) - Go Fiber server-side model generator for Fern, an open-source standard and toolset for building effective APIs
 - _Osprey_ - a high-volume (>100M records/day) scalable data ingest API in Rust with Kubernetes, Redis, and Protobuf
 - ... and other open-source contributions!
-
 </details>
 <hr/>
 <details>
