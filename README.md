@@ -47,13 +47,14 @@ There is always something to learn. I can communicate, I can coordinate, and I c
 <summary><h4>🏙️ Main Portfolio</h4></summary>
 
 **Current Positions**
-- **Principal Software Engineer @ RTX**
+- **Principal Platform Architect @ RTX**
   - led the Developer Experience team that architected & built the next evolution of an automated self-serve internal developer platform, enabling dozens of teams across programs to manage AWS infra for hundreds of dev VMs and production runtimes + estimate & manage traceable costs across charge codes
-  - owned, maintained, and cross-collaborated on satellite & ground station sims and systems for customers requiring M2C2 capabilities
+  - spearheaded multiple GenAI / agentic workflow initiatives and demos to demonstrate the power of the product engineering paradigm shift across orgs
+  - owned, maintained, and cross-collaborated on satellite & ground station sims and systems for customers requiring mission and constellation capabilities
   - increased agility by mentoring engineers on commercial tech (Docker, Kubernetes, AWS + more) to solve problems faster
 
 - **Founder @ Omnith**
-  - I do F500 consulting and contracting work, and build cool new products/technologies by myself & with teams, under this namesake.
+  - I do F500 consulting + contracting work (platform engineering, AI/ML, and developer experience) and build cool new products/technologies by myself & with teams under this namesake.
  
 - **Co-Founder @ Clubcast**
   - platform that dozens of club sports orgs and teams rely on to stream + record sports events for supporting fans and raise funds from them.
