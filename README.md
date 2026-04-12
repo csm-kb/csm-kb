@@ -47,12 +47,6 @@ There is always something to learn. I can communicate, I can coordinate, and I c
 <summary><h4>🏙️ Main Portfolio</h4></summary>
 
 **Current Positions**
-- **Principal Platform Architect @ RTX**
-  - led the Developer Experience team that architected & built the next evolution of an automated self-serve internal developer platform, enabling dozens of teams across programs to manage AWS infra for hundreds of dev VMs and production runtimes + estimate & manage traceable costs across charge codes
-  - spearheaded multiple GenAI / agentic workflow initiatives and demos to demonstrate the power of the product engineering paradigm shift across orgs
-  - owned, maintained, and cross-collaborated on satellite & ground station sims and systems for customers requiring mission and constellation capabilities
-  - increased agility by mentoring engineers on commercial tech (Docker, Kubernetes, AWS + more) to solve problems faster
-
 - **Founder @ Omnith**
   - I do F500 consulting + contracting work (platform engineering, AI/ML, and developer experience) and build cool new products/technologies by myself & with teams under this namesake.
  
@@ -61,6 +55,12 @@ There is always something to learn. I can communicate, I can coordinate, and I c
   - designed, built, and deployed a multi-tenant ticketed streaming platform from the ground up (Postgres / Supabase + Express + SvelteKit + Stripe + media gateway + CloudFront CDN) that can reliably handle hundreds of thousands of requests and thousands of concurrent users per day, in less than two weeks!
 
 **Past Positions**
+- **Principal Platform Architect @ RTX**
+  - led the Developer Experience team that architected & built the next evolution of an automated self-serve internal developer platform, enabling dozens of teams across programs to manage AWS infra for hundreds of dev VMs and production runtimes + estimate & manage traceable costs across charge codes
+  - spearheaded multiple GenAI / agentic workflow initiatives and demos to demonstrate the power of the product engineering paradigm shift across orgs
+  - owned, maintained, and cross-collaborated on satellite & ground station sims and systems for customers requiring mission and constellation capabilities
+  - increased agility by mentoring engineers on commercial tech (Docker, Kubernetes, AWS + more) to solve problems faster
+
 - **Principal Software Engineer / VPE @ Venvee**
   - `[*]` I moved to an adjacent role to allow an industry veteran to mentor me and provide additional business & VC connections -- which would've otherwise taken me a long time to build!
   - worked under extraordinary pressure during the company's most critical make-or-break phase to improve work visibility, analyze leadership culture, form cross-company project management strategy for hardware solution deployments, carefully manage tradeoffs in tech debt and document crunch, and monitor + trim cloud cost spend _(it was fun and I learned a ton; but like any crunch, I don't recommend it)_
