@@ -48,11 +48,7 @@ There is always something to learn. I can communicate, I can coordinate, and I c
 
 **Current Positions**
 - **Founder @ Omnith**
-  - I do F500 consulting + contracting work (platform engineering, AI/ML, and developer experience) and build cool new products/technologies by myself & with teams under this namesake.
- 
-- **Co-Founder @ Clubcast**
-  - platform that dozens of club sports orgs and teams rely on to stream + record sports events for supporting fans and raise funds from them.
-  - designed, built, and deployed a multi-tenant ticketed streaming platform from the ground up (Postgres / Supabase + Express + SvelteKit + Stripe + media gateway + CloudFront CDN) that can reliably handle hundreds of thousands of requests and thousands of concurrent users per day, in less than two weeks!
+  - through Omnith, I've driven sustainable millions in value working with orgs ranging from startups to regulated enterprises on platform engineering, AI/ML + GenAI initiatives, and AI-native product capabilities. I own several products built to address repeatedly-observed problems shared by various clients.
 
 **Past Positions**
 - **Principal Platform Architect @ RTX**
@@ -60,6 +56,10 @@ There is always something to learn. I can communicate, I can coordinate, and I c
   - spearheaded multiple GenAI / agentic workflow initiatives and demos to demonstrate the power of the product engineering paradigm shift across orgs
   - owned, maintained, and cross-collaborated on satellite & ground station sims and systems for customers requiring mission and constellation capabilities
   - increased agility by mentoring engineers on commercial tech (Docker, Kubernetes, AWS + more) to solve problems faster
+ 
+- **Co-Founder @ Clubcast**
+  - platform that dozens of club sports orgs and teams rely on to stream + record sports events for supporting fans and raise funds from them.
+  - designed, built, and deployed a multi-tenant ticketed streaming platform from the ground up (Postgres / Supabase + Express + SvelteKit + Stripe + media gateway + CloudFront CDN) that can reliably handle hundreds of thousands of requests and thousands of concurrent users per day, in less than two weeks!
 
 - **Principal Software Engineer / VPE @ Venvee**
   - `[*]` I moved to an adjacent role to allow an industry veteran to mentor me and provide additional business & VC connections -- which would've otherwise taken me a long time to build!
@@ -101,8 +101,10 @@ There is always something to learn. I can communicate, I can coordinate, and I c
 <summary><h4>👩‍💻 Key Projects</h4></summary>
 
 - _Orbweaver_ - a self-managing satellite constellation platform, for handling space infra swarms in varying orbits with minimal ground downlink (inspired by Google's [Project Suncatcher](https://research.google/blog/exploring-a-space-based-scalable-ai-infrastructure-system-design/))
+- _Smithe_ - self-hostable AI-native dev/app platform and company harness with governance, modular automations, agentic workflow runtime, and customizable tool + SaaS + data source integrations
 - _Forge_ - mobile app that lets me interface with remote `claude-code` agents hosted on e.g. my computer, laptop, or servers via secure link
 - _Edgetail_ - a canonical log engine service based on o11y 2.0 best practices; an open-source alternative to Honeycomb and Baselime
+- [_Volumi_](https://volumi.app) - group payment splitting app, cross-platform & offline-first; handling thousands of reported transactions to settle per month
 - [fern-go-model](https://github.com/fern-api/fern) - Go Fiber server-side model generator for Fern, an open-source standard and toolset for building effective APIs
 - _Osprey_ - a high-volume (>100M records/day) scalable data ingest API in Rust with Kubernetes, Redis, and Protobuf
 - ... and other open-source contributions!
@@ -133,10 +135,9 @@ There is always something to learn. I can communicate, I can coordinate, and I c
 _Active_
 - `[Godot]` _Ephemeia_ - a radar screen top-down RTS set in an original fantasy world.
 - `[Godot]` _GiGi_ - a tiny bleak hyperpop retro action RPG inspired by Hades, Final Fantasy 15, and storytelling side-scroller indie games like _INSIDE_ and _Nameless_.
-- `[Godot]` _HoloOdyssey: The Myth Paradox_ - a tactical role-playing game inspired by _Fire Emblem_, _Final Fantasy_, and _OCTOPATH TRAVELER_, with an emphasis on story and branching paths twisted into a “Hololive/alter” timeline progression. The game differentiates itself from other TRPGs with its signature Chrono-Sync Battle System, Battle Interrupts, unique character world traversal abilities, and a deep interwoven story.
 
 _Paused_
-- `[Godot]` _[name tbd]_ - a fast-paced 4v4 PvE + PvP hero shooter with a distinctive core game mode and original takes on Hololive characters spun as heroes (Idols), complete with dynamic movesets and mechanics in a variety of modes.
+- `[Godot]` _HoloOdyssey: The Myth Paradox_ - a tactical role-playing game inspired by _Fire Emblem_, _Final Fantasy_, and _OCTOPATH TRAVELER_, with an emphasis on story and branching paths twisted into a “Hololive/alter” timeline progression. The game differentiates itself from other TRPGs with its signature Chrono-Sync Battle System, Battle Interrupts, unique character world traversal abilities, and a deep interwoven story.
 
 _Complete_
 
