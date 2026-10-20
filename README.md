@@ -21,10 +21,6 @@
           <a text-decoration="none" href="https://open.spotify.com/artist/2SyxQ7Mp3PFDWNA2yFGtTA?si=2w6P5lcxS-GC2mCQBhAV7g">
             <img width="32" src="https://raw.githubusercontent.com/csm-kb/csm-kb/main/public/spotify.svg" title="Spotify" alt="Spotify"/>
           </a>
-          &#8287;&#8287;&#8287;
-          <a text-decoration="none" href="https://ko-fi.com/kanomeister">
-            <img width="32" src="https://raw.githubusercontent.com/csm-kb/csm-kb/main/public/kofi.svg" title="Ko-fi" alt="Ko-fi"/>
-          </a>
         </div>
       </td>
       <td>
